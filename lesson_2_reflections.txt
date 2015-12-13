@@ -1,0 +1,3 @@
+* What happens when you initalize a repository? Why do you need to do it?
+
+The folder .git is created. Now I can use all the power of git to keep track of changes.
