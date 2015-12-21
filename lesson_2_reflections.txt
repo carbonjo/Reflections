@@ -1,3 +1,15 @@
 * What happens when you initalize a repository? Why do you need to do it?
 
 The folder .git is created. Now I can use all the power of git to keep track of changes.
+
+* How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Intermediary step
+
+* how can you use the staging area to make sure you have one commit per logical change?
+
+Not sure. The staging area is where files go before commiting.
+
+* What are some situations when branches would be helpful in keeping your history organized? how would brancehs help?
+
+When working on special cases of the main project. Branches are the subdevelopments of the main project.
